@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elda-gomes
-- 👀 I’m interested in .Net (C#)
-- 🌱 I’m currently learning React and React Native
+- :woman_technologist: I'm a C# Developer
+- 👀 I’m interested in learning (all the time)
 - 📫 You can reach me by e-mail: elda.dimm@gmail.com
 
 <!---
