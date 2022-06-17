@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elda-gomes
-- 👀 I’m interested in .Net (C#, Asp.Net)
+- 👀 I’m interested in .Net (C#)
 - 🌱 I’m currently learning React and React Native
 - 📫 You can reach me by e-mail: elda.dimm@gmail.com
 
